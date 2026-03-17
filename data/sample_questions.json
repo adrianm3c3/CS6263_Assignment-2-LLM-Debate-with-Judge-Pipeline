@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "question": "do iran and afghanistan speak the same language",
+    "answer": "Yes"
+  },
+  {
+    "id": 2,
+    "question": "do good samaritan laws protect those who help at an accident",
+    "answer": "Yes"
+  },
+  {
+    "id": 3,
+    "question": "is windows movie maker part of windows essentials",
+    "answer": "Yes"
+  },
+  {
+    "id": 4,
+    "question": "is confectionary sugar the same as powdered sugar",
+    "answer": "Yes"
+  },
+  {
+    "id": 5,
+    "question": "is elder scrolls online the same as skyrim",
+    "answer": "No"
+  },
+  {
+    "id": 6,
+    "question": "can you use oyster card at epsom station",
+    "answer": "No"
+  },
+  {
+    "id": 7,
+    "question": "will there be a season 4 of da vinci's demons",
+    "answer": "No"
+  },
+  {
+    "id": 8,
+    "question": "is the federal court the same as the supreme court",
+    "answer": "No"
+  },
+  {
+    "id": 9,
+    "question": "did abraham lincoln write the letter in saving private ryan",
+    "answer": "Yes"
+  },
+  {
+    "id": 10,
+    "question": "is batman and robin a sequel to batman forever",
+    "answer": "Yes"
+  },
+  {
+    "id": 11,
+    "question": "is a wolverine the same as a badger",
+    "answer": "No"
+  },
+  {
+    "id": 12,
+    "question": "will there be a green lantern 2 movie",
+    "answer": "No"
+  },
+  {
+    "id": 13,
+    "question": "does the icc has jurisdiction in the united states",
+    "answer": "No"
+  },
+  {
+    "id": 14,
+    "question": "calcium carbide cac2 is the raw material for the production of acetylene",
+    "answer": "Yes"
+  },
+  {
+    "id": 15,
+    "question": "is there a now you see me 3 coming out",
+    "answer": "Yes"
+  },
+  {
+    "id": 16,
+    "question": "does a penalty shoot out goal count towards the golden boot",
+    "answer": "No"
+  },
+  {
+    "id": 17,
+    "question": "will there be a new season of cutthroat kitchen",
+    "answer": "No"
+  },
+  {
+    "id": 18,
+    "question": "is jack sikma in the hall of fame",
+    "answer": "Yes"
+  },
+  {
+    "id": 19,
+    "question": "can elves and humans mate lord of the rings",
+    "answer": "Yes"
+  },
+  {
+    "id": 20,
+    "question": "the boy in the plastic bubble based on true story",
+    "answer": "Yes"
+  },
+  {
+    "id": 21,
+    "question": "science begins with the premise that knowledge should first be acquired through observation",
+    "answer": "Yes"
+  },
+  {
+    "id": 22,
+    "question": "is tim brown in the hall of fame",
+    "answer": "Yes"
+  },
+  {
+    "id": 23,
+    "question": "can you drink alcohol in public in denmark",
+    "answer": "Yes"
+  },
+  {
+    "id": 24,
+    "question": "is jersey currency legal tender in the uk",
+    "answer": "No"
+  },
+  {
+    "id": 25,
+    "question": "have the milwaukee bucks ever won a championship",
+    "answer": "Yes"
+  },
+  {
+    "id": 26,
+    "question": "does the world cup final go to penalties",
+    "answer": "Yes"
+  },
+  {
+    "id": 27,
+    "question": "is kingdom manga based on a true story",
+    "answer": "Yes"
+  },
+  {
+    "id": 28,
+    "question": "is croatia part of the european economic area",
+    "answer": "Yes"
+  },
+  {
+    "id": 29,
+    "question": "can u marry a dead person in france",
+    "answer": "Yes"
+  },
+  {
+    "id": 30,
+    "question": "is saline and sodium chloride the same thing",
+    "answer": "No"
+  },
+  {
+    "id": 31,
+    "question": "is there a treatment for the bubonic plague",
+    "answer": "Yes"
+  },
+  {
+    "id": 32,
+    "question": "does buffy's mom know she's a slayer",
+    "answer": "Yes"
+  },
+  {
+    "id": 33,
+    "question": "was the leaning tower of pisa built leaning",
+    "answer": "No"
+  },
+  {
+    "id": 34,
+    "question": "is the movie fool's gold a true story",
+    "answer": "No"
+  },
+  {
+    "id": 35,
+    "question": "has any nfl team played the superbowl at home",
+    "answer": "No"
+  },
+  {
+    "id": 36,
+    "question": "does each australian state have its own constitution",
+    "answer": "Yes"
+  },
+  {
+    "id": 37,
+    "question": "can you have a right and left bundle branch block",
+    "answer": "Yes"
+  },
+  {
+    "id": 38,
+    "question": "do you always have to say check in chess",
+    "answer": "No"
+  },
+  {
+    "id": 39,
+    "question": "is an australian shepherd the same as an australian cattle dog",
+    "answer": "No"
+  },
+  {
+    "id": 40,
+    "question": "is tomato puree and tomato sauce the same thing",
+    "answer": "No"
+  },
+  {
+    "id": 41,
+    "question": "is the blues brothers based on a true story",
+    "answer": "No"
+  },
+  {
+    "id": 42,
+    "question": "is newcastle upon tyne the same as newcastle",
+    "answer": "Yes"
+  },
+  {
+    "id": 43,
+    "question": "is post office and royal mail the same",
+    "answer": "No"
+  },
+  {
+    "id": 44,
+    "question": "has any supreme court nominee not been confirmed",
+    "answer": "Yes"
+  },
+  {
+    "id": 45,
+    "question": "is thanksgiving always the last thursday of the month",
+    "answer": "Yes"
+  },
+  {
+    "id": 46,
+    "question": "is lord of the rings after the hobbit",
+    "answer": "Yes"
+  },
+  {
+    "id": 47,
+    "question": "is the fallen movie going to have a sequel",
+    "answer": "No"
+  },
+  {
+    "id": 48,
+    "question": "does anyone on instagram have 1 billion followers",
+    "answer": "No"
+  },
+  {
+    "id": 49,
+    "question": "in the phantom menace is padme the queen",
+    "answer": "Yes"
+  },
+  {
+    "id": 50,
+    "question": "is lord of the rings considered an epic",
+    "answer": "Yes"
+  },
+  {
+    "id": 51,
+    "question": "does the euro sign go before the number",
+    "answer": "Yes"
+  },
+  {
+    "id": 52,
+    "question": "can stainless steel be used on induction cooktop",
+    "answer": "Yes"
+  },
+  {
+    "id": 53,
+    "question": "is job termination the same as being fired",
+    "answer": "Yes"
+  },
+  {
+    "id": 54,
+    "question": "does age have any influence on attentional ability or inattentional blindness",
+    "answer": "Yes"
+  },
+  {
+    "id": 55,
+    "question": "is sanskrit the first language of the world",
+    "answer": "No"
+  },
+  {
+    "id": 56,
+    "question": "is a jack russell considered a small breed",
+    "answer": "Yes"
+  },
+  {
+    "id": 57,
+    "question": "does air force one travel with fighter escort",
+    "answer": "No"
+  },
+  {
+    "id": 58,
+    "question": "is it legal to own an ar15 in california",
+    "answer": "No"
+  },
+  {
+    "id": 59,
+    "question": "is the national anthem and star spangled banner the same",
+    "answer": "Yes"
+  },
+  {
+    "id": 60,
+    "question": "is there an international airport in naples italy",
+    "answer": "Yes"
+  },
+  {
+    "id": 61,
+    "question": "can you buy cadburys creme eggs all year round",
+    "answer": "No"
+  },
+  {
+    "id": 62,
+    "question": "do homologous chromosomes carry information for the same traits",
+    "answer": "Yes"
+  },
+  {
+    "id": 63,
+    "question": "has michigan ever won a national championship in football",
+    "answer": "Yes"
+  },
+  {
+    "id": 64,
+    "question": "you can tell a lot about a person by how they treat their waiter",
+    "answer": "Yes"
+  },
+  {
+    "id": 65,
+    "question": "are there any crocodiles native to north america",
+    "answer": "Yes"
+  },
+  {
+    "id": 66,
+    "question": "does lex luthor know who superman is in smallville",
+    "answer": "Yes"
+  },
+  {
+    "id": 67,
+    "question": "do you have to have a college degree to take the bar exam",
+    "answer": "Yes"
+  },
+  {
+    "id": 68,
+    "question": "will there be a season 2 of marvel's iron fist",
+    "answer": "Yes"
+  },
+  {
+    "id": 69,
+    "question": "is 844 a toll free number in canada",
+    "answer": "Yes"
+  },
+  {
+    "id": 70,
+    "question": "does any other country have daylight savings time",
+    "answer": "Yes"
+  },
+  {
+    "id": 71,
+    "question": "has anyone ever pitched back to back no hitters",
+    "answer": "Yes"
+  },
+  {
+    "id": 72,
+    "question": "is there a black bike week in myrtle beach",
+    "answer": "Yes"
+  },
+  {
+    "id": 73,
+    "question": "are static shock and black lightning the same person",
+    "answer": "No"
+  },
+  {
+    "id": 74,
+    "question": "is there such a thing as unbreakable glass",
+    "answer": "Yes"
+  },
+  {
+    "id": 75,
+    "question": "can liquid latex be used as an adhesive",
+    "answer": "Yes"
+  },
+  {
+    "id": 76,
+    "question": "is it illegal to carry a pistol in your car in texas",
+    "answer": "No"
+  },
+  {
+    "id": 77,
+    "question": "is it legal to carry a sgian dubh",
+    "answer": "Yes"
+  },
+  {
+    "id": 78,
+    "question": "several cranial nerves innervate structures of the tongue",
+    "answer": "No"
+  },
+  {
+    "id": 79,
+    "question": "is porto rico a part of the united states",
+    "answer": "Yes"
+  },
+  {
+    "id": 80,
+    "question": "is there sales tax in the state of washington",
+    "answer": "Yes"
+  },
+  {
+    "id": 81,
+    "question": "has anyone scored 6 goals in one game",
+    "answer": "Yes"
+  },
+  {
+    "id": 82,
+    "question": "can puppies see right when their eyes open",
+    "answer": "Yes"
+  },
+  {
+    "id": 83,
+    "question": "is the sears tower the same as the hancock building",
+    "answer": "No"
+  },
+  {
+    "id": 84,
+    "question": "is tokyo ghoul re related to tokyo ghoul",
+    "answer": "Yes"
+  },
+  {
+    "id": 85,
+    "question": "do texas state troopers have to wear hats",
+    "answer": "Yes"
+  },
+  {
+    "id": 86,
+    "question": "is vaping illegal if you are under 18",
+    "answer": "Yes"
+  },
+  {
+    "id": 87,
+    "question": "is wheat flour and white flour the same thing",
+    "answer": "No"
+  },
+  {
+    "id": 88,
+    "question": "do they find the body in stand by me",
+    "answer": "Yes"
+  },
+  {
+    "id": 89,
+    "question": "did the english win the hundred years war",
+    "answer": "No"
+  },
+  {
+    "id": 90,
+    "question": "is ferguson jenkins in the hall of fame",
+    "answer": "Yes"
+  },
+  {
+    "id": 91,
+    "question": "are family dollar and dollar general the same company",
+    "answer": "No"
+  },
+  {
+    "id": 92,
+    "question": "is station 19 a grey's anatomy spin off",
+    "answer": "Yes"
+  },
+  {
+    "id": 93,
+    "question": "are tomatoes a member of the nightshade family",
+    "answer": "Yes"
+  },
+  {
+    "id": 94,
+    "question": "is dollar tree the same as dollar general",
+    "answer": "No"
+  },
+  {
+    "id": 95,
+    "question": "does the cat in the hat have a name",
+    "answer": "No"
+  },
+  {
+    "id": 96,
+    "question": "the movie rudy based on a true story",
+    "answer": "Yes"
+  },
+  {
+    "id": 97,
+    "question": "is the movie the wall a true story",
+    "answer": "No"
+  },
+  {
+    "id": 98,
+    "question": "is it legal to carry a gun in nyc",
+    "answer": "Yes"
+  },
+  {
+    "id": 99,
+    "question": "the former soviet union broke into separate states",
+    "answer": "Yes"
+  },
+  {
+    "id": 100,
+    "question": "does hot and sour soup have a lot of sodium",
+    "answer": "Yes"
+  }
+]
