@@ -16,3 +16,6 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
+
+Replace API keys with actual api, hidden for security purposes
